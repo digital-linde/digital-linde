@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @digital-linde
 - 👀 I’m interested in ... Tech, Web and all things Code #CodingNewbie
-- 🌱 I’m currently learning ... Software Development with @TechTalentAcademy
-- 📫 How to reach me ... www.twitter.com/digital_linde
+- 🌱 I’m currently learning ... Web Development with @shecodesio
+- 📫 How to reach me ... www.twitter.com/digital_linde & https://www.linkedin.com/in/lindelani/
